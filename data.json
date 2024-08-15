@@ -1,0 +1,403 @@
+[
+    {
+        "product_name": "Classic Ballpoint Pen",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Smooth writing ballpoint pen with a comfortable grip.",
+        "price": 1.99,
+        "category": "writing instruments",
+        "rating": 4.5,
+        "manufacture_date": "2023-05-10"
+    },
+    {
+        "product_name": "Spiral Notebook",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "100-page lined notebook for everyday use.",
+        "price": 3.49,
+        "category": "paper products",
+        "rating": 4.8,
+        "manufacture_date": "2023-06-15"
+    },
+    {
+        "product_name": "Binder Clips Set",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Pack of 12 binder clips, assorted sizes.",
+        "price": 2.99,
+        "category": "filing and organizing",
+        "rating": 4.7,
+        "manufacture_date": "2023-04-22"
+    },
+    {
+        "product_name": "Acrylic Tape Dispenser",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Clear acrylic tape dispenser for standard-sized rolls.",
+        "price": 4.99,
+        "category": "desk accessories",
+        "rating": 4.6,
+        "manufacture_date": "2023-03-30"
+    },
+    {
+        "product_name": "Artist Sketchpad",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "50-sheet heavy-duty paper for drawing and sketching.",
+        "price": 5.99,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-05"
+    },
+    {
+        "product_name": "Gel Ink Pen Set",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Set of 5 gel ink pens with smooth flow.",
+        "price": 3.99,
+        "category": "writing instruments",
+        "rating": 4.4,
+        "manufacture_date": "2023-05-25"
+    },
+    {
+        "product_name": "Sticky Notes",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "Pack of 400 sticky notes in assorted colors.",
+        "price": 2.49,
+        "category": "paper products",
+        "rating": 4.8,
+        "manufacture_date": "2023-06-01"
+    },
+    {
+        "product_name": "File Organizer Tray",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "3-tier stackable file organizer for desk use.",
+        "price": 12.99,
+        "category": "filing and organizing",
+        "rating": 4.7,
+        "manufacture_date": "2023-04-12"
+    },
+    {
+        "product_name": "Stapler with Staples",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Compact stapler with 1000 staples included.",
+        "price": 6.49,
+        "category": "desk accessories",
+        "rating": 4.5,
+        "manufacture_date": "2023-03-18"
+    },
+    {
+        "product_name": "Watercolor Paint Set",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "12-color watercolor paint set with brush.",
+        "price": 8.99,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-20"
+    },
+    {
+        "product_name": "Mechanical Pencil",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "0.5mm mechanical pencil with refillable lead.",
+        "price": 2.79,
+        "category": "writing instruments",
+        "rating": 4.6,
+        "manufacture_date": "2023-05-18"
+    },
+    {
+        "product_name": "Legal Pad",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "Yellow legal pad with 50 perforated sheets.",
+        "price": 2.99,
+        "category": "paper products",
+        "rating": 4.7,
+        "manufacture_date": "2023-06-12"
+    },
+    {
+        "product_name": "Document Folder",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Plastic document folder with snap closure.",
+        "price": 1.89,
+        "category": "filing and organizing",
+        "rating": 4.6,
+        "manufacture_date": "2023-05-05"
+    },
+    {
+        "product_name": "Desk Organizer Set",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "5-piece desk organizer set with pen holder, tray, and more.",
+        "price": 14.99,
+        "category": "desk accessories",
+        "rating": 4.8,
+        "manufacture_date": "2023-03-25"
+    },
+    {
+        "product_name": "Colored Pencil Set",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "24-count colored pencil set for vibrant coloring.",
+        "price": 7.99,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-10"
+    },
+    {
+        "product_name": "Fine Tip Marker",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Black fine tip marker for precision writing.",
+        "price": 1.49,
+        "category": "writing instruments",
+        "rating": 4.4,
+        "manufacture_date": "2023-05-28"
+    },
+    {
+        "product_name": "Graph Paper Notebook",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "80-page notebook with graph paper for technical drawings.",
+        "price": 4.49,
+        "category": "paper products",
+        "rating": 4.7,
+        "manufacture_date": "2023-06-22"
+    },
+    {
+        "product_name": "Expanding File Folder",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "12-pocket expanding file folder with elastic closure.",
+        "price": 9.99,
+        "category": "filing and organizing",
+        "rating": 4.8,
+        "manufacture_date": "2023-04-07"
+    },
+    {
+        "product_name": "Metal Scissors",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Sharp metal scissors with ergonomic handle.",
+        "price": 3.49,
+        "category": "desk accessories",
+        "rating": 4.6,
+        "manufacture_date": "2023-03-15"
+    },
+    {
+        "product_name": "Acrylic Paint Set",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "8-color acrylic paint set for artists.",
+        "price": 9.49,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-22"
+    },
+    {
+        "product_name": "Fountain Pen",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Elegant fountain pen with refillable ink cartridge.",
+        "price": 12.49,
+        "category": "writing instruments",
+        "rating": 4.7,
+        "manufacture_date": "2023-05-02"
+    },
+    {
+        "product_name": "Memo Pad",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "Compact memo pad with 50 sheets.",
+        "price": 1.49,
+        "category": "paper products",
+        "rating": 4.5,
+        "manufacture_date": "2023-06-05"
+    },
+    {
+        "product_name": "Letter Tray",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Single-tier letter tray for organizing papers.",
+        "price": 5.99,
+        "category": "filing and organizing",
+        "rating": 4.6,
+        "manufacture_date": "2023-04-18"
+    },
+    {
+        "product_name": "Desktop Calculator",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Basic desktop calculator with large display.",
+        "price": 7.99,
+        "category": "desk accessories",
+        "rating": 4.5,
+        "manufacture_date": "2023-03-20"
+    },
+    {
+        "product_name": "Charcoal Drawing Set",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "12-piece charcoal drawing set with blending tools.",
+        "price": 11.99,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-15"
+    },
+    {
+        "product_name": "Highlighter Set",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Pack of 6 fluorescent highlighters in assorted colors.",
+        "price": 3.29,
+        "category": "writing instruments",
+        "rating": 4.6,
+        "manufacture_date": "2023-05-12"
+    },
+    {
+        "product_name": "Ruled Notebook",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "120-page ruled notebook with a durable cover.",
+        "price": 4.99,
+        "category": "paper products",
+        "rating": 4.7,
+        "manufacture_date": "2023-06-18"
+    },
+    {
+        "product_name": "Accordion File",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Durable accordion file with 13 pockets.",
+        "price": 8.49,
+        "category": "filing and organizing",
+        "rating": 4.8,
+        "manufacture_date": "2023-04-25"
+    },
+    {
+        "product_name": "Pen Holder",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Metal pen holder with mesh design.",
+        "price": 3.99,
+        "category": "desk accessories",
+        "rating": 4.5,
+        "manufacture_date": "2023-03-10"
+    },
+    {
+        "product_name": "Pastel Color Chalk Set",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "10 pastel color chalks for drawing and art projects.",
+        "price": 5.49,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-12"
+    },
+    {
+        "product_name": "Permanent Marker",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Black permanent marker with a chisel tip.",
+        "price": 1.29,
+        "category": "writing instruments",
+        "rating": 4.6,
+        "manufacture_date": "2023-05-08"
+    },
+    {
+        "product_name": "Index Cards",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "Pack of 100 ruled index cards for notes and study.",
+        "price": 1.99,
+        "category": "paper products",
+        "rating": 4.7,
+        "manufacture_date": "2023-06-08"
+    },
+    {
+        "product_name": "Hanging File Folders",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Set of 10 hanging file folders with tabs.",
+        "price": 6.99,
+        "category": "filing and organizing",
+        "rating": 4.8,
+        "manufacture_date": "2023-04-15"
+    },
+    {
+        "product_name": "Magnetic Paper Clip Holder",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Magnetic holder for easy access to paper clips.",
+        "price": 2.99,
+        "category": "desk accessories",
+        "rating": 4.5,
+        "manufacture_date": "2023-03-05"
+    },
+    {
+        "product_name": "Oil Pastels Set",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "24 vibrant oil pastels for blending and shading.",
+        "price": 6.99,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-18"
+    },
+    {
+        "product_name": "Whiteboard Markers",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Set of 4 whiteboard markers in different colors.",
+        "price": 3.49,
+        "category": "writing instruments",
+        "rating": 4.5,
+        "manufacture_date": "2023-05-15"
+    },
+    {
+        "product_name": "Composition Book",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "Classic composition book with 100 wide-ruled pages.",
+        "price": 2.29,
+        "category": "paper products",
+        "rating": 4.7,
+        "manufacture_date": "2023-06-02"
+    },
+    {
+        "product_name": "Clipboard with Storage",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Clipboard with built-in storage compartment.",
+        "price": 9.49,
+        "category": "filing and organizing",
+        "rating": 4.6,
+        "manufacture_date": "2023-04-02"
+    },
+    {
+        "product_name": "Desktop Tape Dispenser",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Heavy-duty tape dispenser for desk use.",
+        "price": 4.29,
+        "category": "desk accessories",
+        "rating": 4.5,
+        "manufacture_date": "2023-03-08"
+    },
+    {
+        "product_name": "Watercolor Brush Set",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "Set of 10 brushes for watercolor painting.",
+        "price": 6.49,
+        "category": "art supplies",
+        "rating": 4.9,
+        "manufacture_date": "2023-07-25"
+    }
+]
+  
