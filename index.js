@@ -35,9 +35,22 @@ async function run() {
         });
 
         app.get('/products', async (req, res) => {
-            result = await productsColl.find().toArray();
-            res.send(result);
+            const name = req.query?.name;
+            const skip = req.query?.skip;
+            const limit = req.query?.limit;
+            if (name) {
+                const result = await productsColl.find().toArray();
+                res.send(result.filter(product => product.product_name.toLowerCase().includes(name.toLowerCase())));
+            } else {
+                const result = await productsColl.find().skip(parseInt(skip)).limit(parseInt(limit)).toArray();
+                res.send(result);
+            }
         });
+
+        app.get('/count', async (req, res) => {
+            const count = await productsColl.estimatedDocumentCount();
+            res.send({ count });
+        })
 
     } finally {
         
