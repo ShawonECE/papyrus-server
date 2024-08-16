@@ -7,7 +7,7 @@
         "price": 1.99,
         "category": "writing instruments",
         "rating": 4.5,
-        "adding_date": "2023-06-22"
+        "adding_date": 1687392000000
     },
     {
         "product_name": "Spiral Notebook",
@@ -17,7 +17,7 @@
         "price": 3.49,
         "category": "paper products",
         "rating": 4.8,
-        "adding_date": "2023-03-14"
+        "adding_date": 1678752000000
     },
     {
         "product_name": "Binder Clips Set",
@@ -27,7 +27,7 @@
         "price": 2.99,
         "category": "filing and organizing",
         "rating": 4.7,
-        "adding_date": "2023-04-22"
+        "adding_date": 1682121600000
     },
     {
         "product_name": "Acrylic Tape Dispenser",
@@ -37,7 +37,7 @@
         "price": 4.99,
         "category": "desk accessories",
         "rating": 4.6,
-        "adding_date": "2023-03-30"
+        "adding_date": 1680134400000
     },
     {
         "product_name": "Artist Sketchpad",
@@ -47,7 +47,7 @@
         "price": 5.99,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-05"
+        "adding_date": 1688515200000
     },
     {
         "product_name": "Gel Ink Pen Set",
@@ -57,7 +57,7 @@
         "price": 3.99,
         "category": "writing instruments",
         "rating": 4.4,
-        "adding_date": "2023-05-25"
+        "adding_date": 1684972800000
     },
     {
         "product_name": "Sticky Notes",
@@ -67,7 +67,7 @@
         "price": 2.49,
         "category": "paper products",
         "rating": 4.8,
-        "adding_date": "2023-06-01"
+        "adding_date": 1685577600000
     },
     {
         "product_name": "File Organizer Tray",
@@ -77,7 +77,7 @@
         "price": 12.99,
         "category": "filing and organizing",
         "rating": 4.7,
-        "adding_date": "2023-04-12"
+        "adding_date": 1681257600000
     },
     {
         "product_name": "Stapler with Staples",
@@ -87,7 +87,7 @@
         "price": 6.49,
         "category": "desk accessories",
         "rating": 4.5,
-        "adding_date": "2023-03-18"
+        "adding_date": 1679097600000
     },
     {
         "product_name": "Watercolor Paint Set",
@@ -97,7 +97,7 @@
         "price": 8.99,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-20"
+        "adding_date": 1690118400000
     },
     {
         "product_name": "Mechanical Pencil",
@@ -107,7 +107,7 @@
         "price": 2.79,
         "category": "writing instruments",
         "rating": 4.6,
-        "adding_date": "2023-05-18"
+        "adding_date": 1684368000000
     },
     {
         "product_name": "Legal Pad",
@@ -117,7 +117,7 @@
         "price": 2.99,
         "category": "paper products",
         "rating": 4.7,
-        "adding_date": "2023-06-12"
+        "adding_date": 1686528000000
     },
     {
         "product_name": "Document Folder",
@@ -127,7 +127,7 @@
         "price": 1.89,
         "category": "filing and organizing",
         "rating": 4.6,
-        "adding_date": "2023-05-05"
+        "adding_date": 1683244800000
     },
     {
         "product_name": "Desk Organizer Set",
@@ -137,7 +137,7 @@
         "price": 14.99,
         "category": "desk accessories",
         "rating": 4.8,
-        "adding_date": "2023-03-25"
+        "adding_date": 1679702400000
     },
     {
         "product_name": "Colored Pencil Set",
@@ -147,7 +147,7 @@
         "price": 7.99,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-10"
+        "adding_date": 1688947200000
     },
     {
         "product_name": "Fine Tip Marker",
@@ -157,7 +157,7 @@
         "price": 1.49,
         "category": "writing instruments",
         "rating": 4.4,
-        "adding_date": "2023-05-28"
+        "adding_date": 1685232000000
     },
     {
         "product_name": "Graph Paper Notebook",
@@ -167,7 +167,7 @@
         "price": 4.49,
         "category": "paper products",
         "rating": 4.7,
-        "adding_date": "2023-06-22"
+        "adding_date": 1687392000000
     },
     {
         "product_name": "Expanding File Folder",
@@ -177,7 +177,7 @@
         "price": 9.99,
         "category": "filing and organizing",
         "rating": 4.8,
-        "adding_date": "2023-04-07"
+        "adding_date": 1680825600000
     },
     {
         "product_name": "Metal Scissors",
@@ -187,7 +187,7 @@
         "price": 3.49,
         "category": "desk accessories",
         "rating": 4.6,
-        "adding_date": "2023-03-15"
+        "adding_date": 1678838400000
     },
     {
         "product_name": "Acrylic Paint Set",
@@ -197,17 +197,27 @@
         "price": 9.49,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-22"
+        "adding_date": 1690320000000
     },
     {
         "product_name": "Fountain Pen",
         "brand": "Camel",
         "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
-        "description": "Elegant fountain pen with refillable ink cartridge.",
-        "price": 12.49,
+        "description": "Elegant fountain pen with refillable ink converter.",
+        "price": 15.99,
         "category": "writing instruments",
         "rating": 4.7,
-        "adding_date": "2023-05-02"
+        "adding_date": 1686787200000
+    },
+    {
+        "product_name": "Highlighter Set",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Pack of 4 fluorescent highlighters in different colors.",
+        "price": 3.29,
+        "category": "writing instruments",
+        "rating": 4.5,
+        "adding_date": 1685404800000
     },
     {
         "product_name": "Memo Pad",
@@ -217,17 +227,7 @@
         "price": 1.49,
         "category": "paper products",
         "rating": 4.5,
-        "adding_date": "2023-06-05"
-    },
-    {
-        "product_name": "Letter Tray",
-        "brand": "Delli",
-        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
-        "description": "Single-tier letter tray for organizing papers.",
-        "price": 5.99,
-        "category": "filing and organizing",
-        "rating": 4.6,
-        "adding_date": "2023-04-18"
+        "adding_date": 1685404900000
     },
     {
         "product_name": "Desktop Calculator",
@@ -237,7 +237,7 @@
         "price": 7.99,
         "category": "desk accessories",
         "rating": 4.5,
-        "adding_date": "2023-03-20"
+        "adding_date": 1685405100000
     },
     {
         "product_name": "Charcoal Drawing Set",
@@ -247,7 +247,7 @@
         "price": 11.99,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-15"
+        "adding_date": 1685403004200
     },
     {
         "product_name": "Highlighter Set",
@@ -257,7 +257,7 @@
         "price": 3.29,
         "category": "writing instruments",
         "rating": 4.6,
-        "adding_date": "2023-05-12"
+        "adding_date": 1685403104100
     },
     {
         "product_name": "Ruled Notebook",
@@ -267,127 +267,137 @@
         "price": 4.99,
         "category": "paper products",
         "rating": 4.7,
-        "adding_date": "2023-06-18"
-    },
-    {
-        "product_name": "Accordion File",
-        "brand": "Montex",
-        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
-        "description": "Durable accordion file with 13 pockets.",
-        "price": 8.49,
-        "category": "filing and organizing",
-        "rating": 4.8,
-        "adding_date": "2023-04-25"
-    },
-    {
-        "product_name": "Pen Holder",
-        "brand": "Montex",
-        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
-        "description": "Metal pen holder with mesh design.",
-        "price": 3.99,
-        "category": "desk accessories",
-        "rating": 4.5,
-        "adding_date": "2023-03-10"
-    },
-    {
-        "product_name": "Pastel Color Chalk Set",
-        "brand": "Camel",
-        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
-        "description": "10 pastel color chalks for drawing and art projects.",
-        "price": 5.49,
-        "category": "art supplies",
-        "rating": 4.9,
-        "adding_date": "2023-07-12"
-    },
-    {
-        "product_name": "Permanent Marker",
-        "brand": "Faber-Castell",
-        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
-        "description": "Black permanent marker with a chisel tip.",
-        "price": 1.29,
-        "category": "writing instruments",
-        "rating": 4.6,
-        "adding_date": "2023-05-08"
+        "adding_date": 1685404001200
     },
     {
         "product_name": "Index Cards",
-        "brand": "Montex",
+        "brand": "Papier",
         "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
-        "description": "Pack of 100 ruled index cards for notes and study.",
-        "price": 1.99,
+        "description": "Pack of 200 ruled index cards.",
+        "price": 2.99,
         "category": "paper products",
         "rating": 4.7,
-        "adding_date": "2023-06-08"
+        "adding_date": 1685577600000
     },
     {
-        "product_name": "Hanging File Folders",
-        "brand": "Delli",
+        "product_name": "Adhesive Labels",
+        "brand": "Camel",
         "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
-        "description": "Set of 10 hanging file folders with tabs.",
-        "price": 6.99,
+        "description": "100-count adhesive labels for organizing.",
+        "price": 1.99,
         "category": "filing and organizing",
-        "rating": 4.8,
-        "adding_date": "2023-04-15"
+        "rating": 4.6,
+        "adding_date": 1682294400000
     },
     {
-        "product_name": "Magnetic Paper Clip Holder",
-        "brand": "Papier",
+        "product_name": "Desk Lamp",
+        "brand": "Delli",
         "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
-        "description": "Magnetic holder for easy access to paper clips.",
-        "price": 2.99,
+        "description": "LED desk lamp with adjustable brightness.",
+        "price": 19.99,
         "category": "desk accessories",
-        "rating": 4.5,
-        "adding_date": "2023-03-05"
+        "rating": 4.8,
+        "adding_date": 1680652800000
     },
     {
         "product_name": "Oil Pastels Set",
-        "brand": "Montex",
+        "brand": "Faber-Castell",
         "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
-        "description": "24 vibrant oil pastels for blending and shading.",
-        "price": 6.99,
+        "description": "48-color oil pastels for vibrant art creations.",
+        "price": 12.99,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-18"
+        "adding_date": 1690041600000
     },
     {
-        "product_name": "Whiteboard Markers",
+        "product_name": "Rollerball Pen",
         "brand": "Delli",
         "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
-        "description": "Set of 4 whiteboard markers in different colors.",
-        "price": 3.49,
+        "description": "Smooth-flowing rollerball pen with quick-dry ink.",
+        "price": 2.99,
         "category": "writing instruments",
-        "rating": 4.5,
-        "adding_date": "2023-05-15"
+        "rating": 4.7,
+        "adding_date": 1683926400000
     },
     {
-        "product_name": "Composition Book",
+        "product_name": "Printer Paper",
+        "brand": "Papier",
+        "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
+        "description": "500 sheets of standard A4 printer paper.",
+        "price": 4.99,
+        "category": "paper products",
+        "rating": 4.8,
+        "adding_date": 1683158400000
+    },
+    {
+        "product_name": "Letter Tray",
+        "brand": "Delli",
+        "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
+        "description": "Metal letter tray for organizing documents.",
+        "price": 7.49,
+        "category": "filing and organizing",
+        "rating": 4.7,
+        "adding_date": 1680134400000
+    },
+    {
+        "product_name": "Desk Mat",
+        "brand": "Camel",
+        "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
+        "description": "Leather desk mat for a smooth writing surface.",
+        "price": 14.99,
+        "category": "desk accessories",
+        "rating": 4.8,
+        "adding_date": 1678579200000
+    },
+    {
+        "product_name": "Artist Canvas Panel",
+        "brand": "Montex",
+        "img_url": "https://i.ibb.co/92bL7dR/art-supplies.png",
+        "description": "8x10 inches canvas panel for painting.",
+        "price": 4.49,
+        "category": "art supplies",
+        "rating": 4.9,
+        "adding_date": 1690320000000
+    },
+    {
+        "product_name": "Drawing Pencils",
+        "brand": "Faber-Castell",
+        "img_url": "https://i.ibb.co/kM5TyMg/writing-instruments.png",
+        "description": "Set of 12 drawing pencils with varying grades.",
+        "price": 5.49,
+        "category": "writing instruments",
+        "rating": 4.7,
+        "adding_date": 1687046400000
+    },
+    {
+        "product_name": "Graphite Eraser",
         "brand": "Montex",
         "img_url": "https://i.ibb.co/FxzGWcB/paper-products.png",
-        "description": "Classic composition book with 100 wide-ruled pages.",
-        "price": 2.29,
+        "description": "Non-smudge graphite eraser for clean erasing.",
+        "price": 1.29,
         "category": "paper products",
-        "rating": 4.7,
-        "adding_date": "2023-06-02"
+        "rating": 4.6,
+        "adding_date": 1682035200000
     },
     {
-        "product_name": "Clipboard with Storage",
+        "product_name": "Paper Clips Assortment",
         "brand": "Camel",
         "img_url": "https://i.ibb.co/4YrJFHf/filing.png",
-        "description": "Clipboard with built-in storage compartment.",
-        "price": 9.49,
+        "description": "Pack of 300 paper clips in assorted sizes.",
+        "price": 2.49,
         "category": "filing and organizing",
-        "rating": 4.6,
-        "adding_date": "2023-04-02"
+        "rating": 4.5,
+        "adding_date": 1681776000000
     },
     {
-        "product_name": "Desktop Tape Dispenser",
+        "product_name": "Clipboard",
         "brand": "Delli",
         "img_url": "https://i.ibb.co/6FmQc6n/desk-accessories.png",
-        "description": "Heavy-duty tape dispenser for desk use.",
-        "price": 4.29,
+        "description": "Durable clipboard with metal clip for secure holding.",
+        "price": 3.49,
         "category": "desk accessories",
-        "rating": 4.5,
-        "adding_date": "2023-03-08"
+        "rating": 4.7,
+        "adding_date": 1680134400000
     },
     {
         "product_name": "Watercolor Brush Set",
@@ -397,6 +407,6 @@
         "price": 6.49,
         "category": "art supplies",
         "rating": 4.9,
-        "adding_date": "2023-07-25"
+        "adding_date": 1690243200000
     }
 ]

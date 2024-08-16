@@ -38,9 +38,23 @@ async function run() {
             const name = req.query?.name;
             const skip = req.query?.skip;
             const limit = req.query?.limit;
+            const sort = req.query?.sort;
             if (name) {
                 const result = await productsColl.find().toArray();
-                res.send(result.filter(product => product.product_name.toLowerCase().includes(name.toLowerCase())));
+                return res.send(result.filter(product => product.product_name.toLowerCase().includes(name.toLowerCase())));
+            }
+            if (sort === 'low_price_first') {
+                const result = await productsColl.find().sort({ price: 1 }).skip(parseInt(skip)).limit(parseInt(limit)).toArray();
+                res.send(result);
+            } else if (sort === 'high_price_first') {
+                const result = await productsColl.find().sort({ price: -1 }).skip(parseInt(skip)).limit(parseInt(limit)).toArray();
+                res.send(result);
+            } else if (sort === 'old_date_first') {
+                const result = await productsColl.find().sort({ adding_date: 1 }).skip(parseInt(skip)).limit(parseInt(limit)).toArray();
+                res.send(result);
+            } else if (sort === 'new_date_first') {
+                const result = await productsColl.find().sort({ adding_date: -1 }).skip(parseInt(skip)).limit(parseInt(limit)).toArray();
+                res.send(result);
             } else {
                 const result = await productsColl.find().skip(parseInt(skip)).limit(parseInt(limit)).toArray();
                 res.send(result);
