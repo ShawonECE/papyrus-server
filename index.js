@@ -7,7 +7,7 @@ const app = express();
 // middlewares
 app.use(cors(
     {
-      origin: ['http://localhost:5173'],
+      origin: ['http://localhost:5173', 'https://papyrus-staionary.netlify.app'],
     }
 ));
 app.use(express.json());
@@ -28,7 +28,7 @@ const productsColl = db.collection("products");
 
 async function run() {
     try {
-        await client.connect();
+        // await client.connect();
         
         app.get('/', async (req, res) => {
             res.send('Welcome to papyrus');
