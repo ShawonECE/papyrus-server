@@ -10,4 +10,4 @@ This server is built with ExpressJs as backend of the stationary product showcas
 ---
 
 - Get API to fetch all products data.
-- Filter by brand, category or price range; Search by name, sort by adding date or price.
+- Filter by brand, category and price range; Search by name, sort by adding date or price.
